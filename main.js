@@ -24,7 +24,7 @@ function clearCanvas() {
 function draw() {
 
   // Set stroke weight to 13
-  strokeWeight(13);
+  strokeWeight(3);
   // Set stroke color to black
   stroke(0);
   // If mouse is pressed, draw line between previous and current mouse positions
